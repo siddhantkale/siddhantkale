@@ -3,7 +3,7 @@
 _"If you win, you live. If you lose, you die. If you don’t fight, you can’t win!"_  
 — **Eren Yeager**
 
-![AoT Banner](https://your-image-link.com/banner.png)
+![AoT Banner](https://wall.alphacoders.com/big.php?i=1315629)
 
 ### 🛡️ About Me
 
@@ -27,9 +27,9 @@ I'm a full-stack developer and founder of **DevXpress** — I build sites with t
 
 ### 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantkale&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=siddhantkale&theme=tokyonight&hide_border=true)
 
 ### 💡 Motivation
 
