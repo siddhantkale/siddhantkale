@@ -3,7 +3,7 @@
 _"If you win, you live. If you lose, you die. If you don’t fight, you can’t win!"_  
 — **Eren Yeager**
 
-![AoT Banner](https://wall.alphacoders.com/big.php?i=1315629)
+![AoT Banner](https://images6.alphacoders.com/131/1315629.png)
 
 ### 🛡️ About Me
 
