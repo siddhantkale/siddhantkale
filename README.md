@@ -1,7 +1,6 @@
-# 💥 Problem Solver
+# <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">Siddhant Kale</span>
 
 _"The only limit is the one you set for yourself."_
-
 
 ---
 
@@ -9,10 +8,9 @@ _"The only limit is the one you set for yourself."_
 
 I'm a **problem solver** before anything else, constantly looking for creative solutions. I build scalable websites with precision and speed, pushing my limits and always striving for excellence.
 
-
 - 🛠️ **Crafting websites** that stand strong and perform flawlessly  
 - 🎯 Focused, fast, and fearless in the face of tough problems
-- 🧠 **Solving complex coding challenges** on **Leetcode**  
+- 🧠 **Solving complex coding challenges** on **Leetcode**
 
 ---
 
@@ -57,6 +55,3 @@ I'm a **problem solver** before anything else, constantly looking for creative s
 ![GitHub Streak](https://streak-stats.demolab.com?user=siddhantkale&theme=tokyonight&hide_border=true)
 
 ---
-
-
-
