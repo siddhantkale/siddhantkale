@@ -1,4 +1,4 @@
-# <span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">Siddhant Kale</span>
+# Siddhant Kale
 
 _"The only limit is the one you set for yourself."_
 
@@ -8,9 +8,9 @@ _"The only limit is the one you set for yourself."_
 
 I'm a **problem solver** before anything else, constantly looking for creative solutions. I build scalable websites with precision and speed, pushing my limits and always striving for excellence.
 
+- 🧠 **Solving complex coding challenges** on **Leetcode**  
 - 🛠️ **Crafting websites** that stand strong and perform flawlessly  
 - 🎯 Focused, fast, and fearless in the face of tough problems
-- 🧠 **Solving complex coding challenges** on **Leetcode**
 
 ---
 
@@ -30,6 +30,8 @@ I'm a **problem solver** before anything else, constantly looking for creative s
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Other Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -45,6 +47,8 @@ I'm a **problem solver** before anything else, constantly looking for creative s
 
 #### Development Workflow:
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
