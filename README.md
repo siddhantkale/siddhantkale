@@ -1,4 +1,4 @@
-# 💥 Developer Who Fights for Mastery
+# 💥 Problem Solver
 
 _"The only limit is the one you set for yourself."_
 
@@ -12,7 +12,7 @@ I'm a **problem solver** before anything else, constantly looking for creative s
 
 - 🛠️ **Crafting websites** that stand strong and perform flawlessly  
 - 🎯 Focused, fast, and fearless in the face of tough problems
-- - 🧠 **Solving complex coding challenges** on **Leetcode**  
+- 🧠 **Solving complex coding challenges** on **Leetcode**  
 
 ---
 
