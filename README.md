@@ -9,9 +9,10 @@ _"The only limit is the one you set for yourself."_
 
 I'm a **problem solver** before anything else, constantly looking for creative solutions. I build scalable websites with precision and speed, pushing my limits and always striving for excellence.
 
-- 🧠 **Solving complex coding challenges** on **Leetcode**  
+
 - 🛠️ **Crafting websites** that stand strong and perform flawlessly  
 - 🎯 Focused, fast, and fearless in the face of tough problems
+- - 🧠 **Solving complex coding challenges** on **Leetcode**  
 
 ---
 
@@ -57,18 +58,5 @@ I'm a **problem solver** before anything else, constantly looking for creative s
 
 ---
 
-### 💡 My Code, My Journey
 
-Every commit brings me one step closer to **mastery**. The journey is long, but I stay committed to improving, building, and pushing boundaries.
 
-_"The world is built by those who dare to dream and do."_  
-— **Unknown**
-
----
-
-### 🌍 Links to Greatness
-
-- [Portfolio](link-to-portfolio)  
-- [LinkedIn](link-to-linkedin)  
-- [Leetcode](https://leetcode.com/siddhantkale/)  
-- [Twitter](link-to-twitter)
